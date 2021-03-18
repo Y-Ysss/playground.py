@@ -1,0 +1,32 @@
+{
+    "name": "Params",
+    "update": "2021/01/22",
+    "format_version": "112",
+    "data1": {
+        "No": "no",
+        "Type": "type",
+        "Name": "name",
+        "Value": "value",
+        "ip-np": "ip_np",
+        "ip-ns": "ip_ns",
+        "ip-cp": "ip_cp",
+        "ip-cs": "ip_cs"
+    },
+    "data2": {
+        "AAA1": "a01",
+        "AAA2": "a02",
+        "AAA3": "a03",
+        "AAA4": "a04",
+        "AAA5": "a05",
+        "AAA6": "a06",
+        "AAA7": "a07",
+        "AAA8": "a08",
+        "AAA9": "a09",
+        "AAA10": "a10",
+        "AAA11": "a11",
+        "AAA12": "a12",
+        "AAA13": "a13",
+        "AAA14": "a14",
+        "AAA15": "a15"
+    }
+}
