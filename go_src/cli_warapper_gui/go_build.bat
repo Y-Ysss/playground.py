@@ -1,0 +1,1 @@
+go build -o ../../bin/CLI-Mock.exe cliMock.go
