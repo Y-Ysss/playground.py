@@ -1,0 +1,8 @@
+Name: {{name}}
+Age: {{aaaa}}
+
+Items:{% for item in items %}
+  - {{ item }}{% endfor %}
+
+Foods:{% for i, value in foods.items() %}
+  {{i}}. {{value.name}} [{{value.price}}] {{value.like}}{% endfor %}
